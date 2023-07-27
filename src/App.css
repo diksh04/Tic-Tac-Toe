@@ -1,7 +1,23 @@
 .App {
   text-align: center;
 }
-
+.heading {
+  margin-top: -2px;
+  margin-bottom: 30px;
+  font-size: 33px;
+  /* text-decoration: underline; */
+}
+.rule {
+  border-bottom: 2px solid white;
+  width: 700px;
+  margin: 40px auto;
+}
+.txt {
+  font-weight: 600;
+  font-size: 20px;
+  color: white;
+  margin-top: -40px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
