@@ -1,4 +1,4 @@
-The Tic Tac Toe game built with React.js is a classic two-player strategy game that allows players to compete against each other on a 3x3 grid. The game provides a user-friendly interface and an interactive experience, making it enjoyable for players of all ages.
+The Tic Tac Toe game built with React js is a classic two-player strategy game that allows players to compete against each other on a 3x3 grid. The game provides a user-friendly interface and an interactive experience, making it enjoyable for players of all ages.
 
 Key Features:
 1. Interactive Board: The game board is displayed as a 3x3 grid, and each cell represents a spot where players can place their respective symbols (usually 'X' and 'O').
